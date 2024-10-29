@@ -1,5 +1,5 @@
 # 💫 About Me:
-HELLO<br>I'Bahadır Arslan<br>I'm a Software and Artificial Intelligence Engineer
+HELLO<br>I'Bahadır Arslan<br>I'm a Software Engineer
 
 
 ## 🌐 Socials:
