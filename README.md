@@ -164,17 +164,6 @@ const experience = {
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Working on **full-stack mobile and web applications**
-- 🌱 Learning **Cloud Architecture & DevOps**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **Flutter, React, .NET, or anything tech!**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/bahadır-arslan-6089a81b5)**
-- ⚡ Fun fact: **I speak 13+ programming languages fluently! 🎯**
-
----
-
 <div align="center">
 
 
