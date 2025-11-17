@@ -158,7 +158,7 @@ const experience = {
     focus: ["Full Stack Development", "Mobile Apps", "System Architecture"],
     learning: ["Cloud Architecture", "DevOps", "Microservices"],
     askMeAbout: ["Web Dev", "Mobile Dev", "Backend", "System Design"],
-    reachOut: "bahadir@example.com" // Update with your email
+    reachOut: "arslanbaha20@gmail.com" 
 };
 ```
 
