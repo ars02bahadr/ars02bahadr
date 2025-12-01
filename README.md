@@ -16,19 +16,21 @@
 ```typescript
 const bahadir = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "C#", "Java", "Swift", "Kotlin"],
+    code: ["JavaScript", "TypeScript", "Python", "C#", "Java", "Swift", "Kotlin", "Go", "Rust"],
     askMeAbout: ["web dev", "mobile dev", "app dev", "tech", "backend"],
     technologies: {
         mobile: ["Flutter", "React Native", "Swift", "Kotlin"],
         frontEnd: {
-            js: ["React", "Angular", "Vue", "Next.js"],
+            js: ["React", "Angular", "Vue", "Next.js", "Solid.js"],
             css: ["Bootstrap", "Tailwind"]
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
             python: ["Django", "Flask", "FastAPI"],
             csharp: [".NET", "ASP.NET Core"],
-            java: ["Spring Boot"]
+            java: ["Spring Boot"],
+            go: ["Fiber"],
+            rust: ["Actix"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL", "SQLite", "Firebase"],
         devOps: ["Docker", "GitHub Actions", "CI/CD"],
@@ -76,6 +78,7 @@ const bahadir = {
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Solid](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -101,6 +104,8 @@ const bahadir = {
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/fiber-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Actix](https://img.shields.io/badge/actix-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
